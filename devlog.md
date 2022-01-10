@@ -13,3 +13,6 @@ Commented out the tzinfo gem because it was annoying the crap outta me
 Added basic models for existing migrations
 **MIGRATIONS NOT YET RUN**
 Pushed again
+Added basic outline of controllers
+Added URL field to entries migration (this is why we don't run migrations immediately, hah)
+Pushed again. The rest of this will have to wait when I'm not sick and running a fever and probably making SOCC errors. (Sub-Optimal Coding Conditions)

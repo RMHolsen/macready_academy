@@ -6,6 +6,7 @@ class CreateEntry < ActiveRecord::Migration[5.0]
       t.string :medium 
       t.string :subject 
       t.string :style 
+      t.string :url
       t.integer :hours
     end
   end
