@@ -1,5 +1,6 @@
 ## To-Do
--- first, test your assumptions that the very basic architecture works as expected
+-- first, ~~test your assumptions that the very basic architecture works as expected~~
+-- first maybe figure out what the attributes of a course are, how they fit into the courseload model, and how THAT architecture works. Maybe. 
 
 ## Stretch Goals 
 -- add quests
