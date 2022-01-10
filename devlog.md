@@ -8,3 +8,8 @@ Created GitHub repository, pushed first commit
 Added and filled out migrations, routes, uncommented rack-cors. We'll be doing this with a react front end, because why not (even though the other MacCready is pure Ruby. I'm whimsical.)
 Modified order of operations whoops.
 Pushed to save current structure
+Added Active Model Serializers gem
+Commented out the tzinfo gem because it was annoying the crap outta me
+Added basic models for existing migrations
+**MIGRATIONS NOT YET RUN**
+Pushed again

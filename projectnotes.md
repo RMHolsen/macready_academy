@@ -1,6 +1,7 @@
 ## To-Do
 -- first, ~~test your assumptions that the very basic architecture works as expected~~
--- first maybe figure out what the attributes of a course are, how they fit into the courseload model, and how THAT architecture works. Maybe. 
+-- ~~ first maybe figure out what the attributes of a course are, how they fit into the courseload model, and how THAT architecture works. Maybe.~~
+-- Maybe just make sure your user-portfolio-entries section works? As a start? Small bites?
 
 ## Stretch Goals 
 -- add quests
