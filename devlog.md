@@ -16,3 +16,7 @@ Pushed again
 Added basic outline of controllers
 Added URL field to entries migration (this is why we don't run migrations immediately, hah)
 Pushed again. The rest of this will have to wait when I'm not sick and running a fever and probably making SOCC errors. (Sub-Optimal Coding Conditions)
+
+## 23 January 2022
+Entered preliminary code into User and Portfolio controllers
+Need to decide if this is going to be JS front end or Ruby front end. Right now it's a JS front end
