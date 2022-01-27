@@ -20,3 +20,11 @@ Pushed again. The rest of this will have to wait when I'm not sick and running a
 ## 23 January 2022
 Entered preliminary code into User and Portfolio controllers
 Need to decide if this is going to be JS front end or Ruby front end. Right now it's a JS front end
+**MIGRATIONS NOT YET RUN**
+
+## 26 January 2022
+Okay, we'll make this a JS front end. But only JS, no framework. So far.
+Entered preliminary code into Entry controller
+Keep in mind a lot of the controller code is going to have to be rejiggered to suit the JS front end
+**MIGRATIONS NOT YET RUN**
+**RUN MIGRATIONS ON NEXT PASS**
